@@ -1,0 +1,13 @@
+[general]
+name=Plugin Forge
+qgisMinimumVersion=3.16
+description=Un asistente para generar la estructura básica de otros plugins de QGIS.
+version=0.1
+author=Robert y Casta
+email=rjimenezv@unal.edu.co
+about=Este plugin te ayuda a crear otros plugins de QGIS de forma rápida y sencilla.
+
+[python]
+plugin_module=plugin_forge
+class_name=PluginForge
+experimental=True
